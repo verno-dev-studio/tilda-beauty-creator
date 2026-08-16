@@ -1,14 +1,27 @@
 # BEAUTY CREATOR — Content Course
 
-Azerbaijani-language sales page for a six-week course on earning as a content maker for business accounts on Instagram — audience-fit pitch, curriculum breakdown, tutor bio and pricing tiers, with WhatsApp as the primary call to action.
+<p><a href="https://verno-dev-studio.github.io/tilda-beauty-creator/"><b>&#9654; Live demo</b></a> &nbsp;&middot;&nbsp; <a href="https://github.com/verno-dev-studio/tilda-beauty-creator">Source</a></p>
 
-🔗 **Live demo:** https://verno-dev-studio.github.io/tilda-beauty-creator/
+## Overview
 
-## Built with
-- **Tilda** — built visually and exported to static HTML / CSS / JS
+A conversion-focused landing page for an online course on beauty content creation: modules, outcomes and sign-up. Designed visually in Tilda and exported as a fast, self-contained static site.
 
-## Run locally
-Open `index.html` in any modern browser — no build step required.
+## ✨ Features
+
+- Long-form, conversion-oriented landing structure
+- Responsive across all devices (Tilda adaptive grid)
+- Custom design rather than a stock template
+- Lead-capture / call-to-action blocks
+- Optimised static export — fast to load, easy to host
+
+## 🛠️ Tech stack
+
+- **Tilda** — Visual builder — layout, blocks and design
+- **HTML/CSS/JS** — Static export served as-is
+
+## 🚀 Getting started
+
+This site was designed visually in **Tilda** and exported to static HTML/CSS/JS. No build step — open `index.html` in any modern browser, or serve the folder with a static server.
 
 ---
-<sub>Portfolio project. Some client details changed to protect privacy.</sub>
+<sub>Portfolio demo. Client details changed to protect privacy.</sub>
